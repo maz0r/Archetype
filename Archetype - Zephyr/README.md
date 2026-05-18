@@ -1,1 +1,3 @@
 Zepyhr is the Sheet cooling variant of the Archetype Toolhead Ecosystem
+
+![Zephyr](./zephyr.png)
